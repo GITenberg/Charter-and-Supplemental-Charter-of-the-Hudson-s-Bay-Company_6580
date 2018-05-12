@@ -1,5 +1,8 @@
 _repo: Charter-and-Supplemental-Charter-of-the-Hudson-s-Bay-Company_6580
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson's Bay Company
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '2095'
     url: http://www.gutenberg.org/2009/agents/2095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6580#Charter-and-Supplemental-Charter-of-the-Hudson-s-Bay-Company
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
